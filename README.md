@@ -1,1 +1,1 @@
-# Relativity-In-Holography
+# Cavity-QED Spectra Transmission
